@@ -20,6 +20,8 @@
         <img src="down-arrow.jpg" alt="" id="down-jpg" class="slike">
     </div>
 
+    <input type="text" class="form-control" id="naslov_user_pretraga">
+
 
     <div class="div-mudrolije">
         <!-- sve mudrolije -->
