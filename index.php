@@ -15,6 +15,12 @@
     <h1 class="text-center mt-3">mudrolije.rs</h1>
     <a href="novamudrolija.php"><button class="btn btn-success" id="addbtn">Nova Mudrolija</button></a>
 
+    <div class="sort">
+        <img src="up-arrow.jpg" alt="" id="up-jpg" class="slike">
+        <img src="down-arrow.jpg" alt="" id="down-jpg" class="slike">
+    </div>
+
+
     <div class="div-mudrolije">
         <!-- sve mudrolije -->
     </div>

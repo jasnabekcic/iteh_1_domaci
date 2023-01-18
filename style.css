@@ -22,3 +22,13 @@
     margin-left: 25vh;
     width: 150vh;
 }
+
+#up-jpg,
+#down-jpg {
+    width: 5vh;
+    height: 5vh;
+}
+
+.sort {
+    margin-left: 28vh;
+}
