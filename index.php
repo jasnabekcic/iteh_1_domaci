@@ -13,6 +13,7 @@
 <body>
 
     <h1 class="text-center mt-3">mudrolije.rs</h1>
+    <a href="novamudrolija.php"><button class="btn btn-success" id="addbtn">Nova Mudrolija</button></a>
 
     <div class="div-mudrolije">
         <!-- sve mudrolije -->
