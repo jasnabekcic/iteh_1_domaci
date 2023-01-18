@@ -44,3 +44,19 @@ $("#naslov_user_pretraga").keypress(function () {
     )
 });
 
+
+$(document).on('click', '#btndel', function () {
+
+    $.ajax({
+        url: 'DB-php/obrisimudroliju.php',
+        method: 'post',
+        data: { id: $(this).val() },
+        success: function () {
+            {
+                alert('Obrisana mudrolija!')
+            }
+        }
+    }
+    )
+})
+

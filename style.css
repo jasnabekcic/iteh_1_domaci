@@ -2,14 +2,14 @@
     display: grid;
     grid-template-columns: 250px 250px 250px;
     grid-template-rows: 200px 200px 200px;
-    grid-row-gap: 250px;
+    grid-row-gap: 300px;
     grid-column-gap: 150px;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .card {
-    height: 400px;
+    height: 450px;
 }
 
 #addbtn {
@@ -30,11 +30,11 @@
 }
 
 .sort {
-    margin-left: 28vh;
+    margin-left: 50vh;
 }
 
 #naslov_user_pretraga {
     margin-top: 1vh;
     width: 35vh;
-    margin-left: 29vh;
+    margin-left: 45vh;
 }

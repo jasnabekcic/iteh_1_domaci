@@ -21,6 +21,7 @@
 
          <div class="card-footer">
              <p class="card-text"><?php echo $red['username']; ?></p>
+             <button class="btn btn-danger" value="<?php echo $red['id'] ?>" id="btndel">Obriši</button>
          </div>
      </div>
 
